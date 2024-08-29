@@ -33,7 +33,7 @@ Skin cancer is one of the most common cancers worldwide, and early detection is 
   
 - **EfficientNetB7 Model:**
   - Accuracy after 5 epochs: **14.03%**
-  - ***Confusion matrix*** indicated similar issues as the custom model.
+  - Confusion matrix indicated similar issues as the custom model.
 
 ## Discussion
 - Both models struggled with classification accuracy, indicating potential issues with model architecture, hyperparameters, or data preprocessing.
